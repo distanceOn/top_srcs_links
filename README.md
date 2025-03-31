@@ -13,6 +13,16 @@
 - [auto jobs applier](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - генерим резюме к вакансии, автоотклик
 - [coze](https://www.coze.com/) - создаем тг gpts
 - [opus](https://www.opus.pro/clipanything) - монтаж видео
+- [nanobrowser](https://github.com/nanobrowser/nanobrowser?tab=readme-ov-file#-manually-install-latest-version) - ии-агент для работы в браузере, бесплатно с api модели
+- [g-assist](https://www.nvidia.com/en-us/geforce/news/g-assist-ai-companion-for-rtx-ai-pcs/) - настройки для игр
+- [elphame](https://elphame.com/) - генератор курсов
+- [substage](https://selkie.design/substage/) - агент для MacOS
+- [kimi](https://kimi.ai/) - LLM бесплатная
+- [with subtitles](https://withsubtitles.com/) - генератор субтитров
+- [Octave](https://www.hume.ai/) - озвучка
+- [ElevenReader](https://elevenreader.io/publishing) - файл в подкаст
+
+
 
 ## 📱 приложения
 ### 📱 мобилка
@@ -30,6 +40,9 @@
 - [Animix](https://animix.lol/) — бесплатный аниме-кинопоиск
 - [shots](https://shots.so/) - делаем картинки, мокапы
 - [roomstyler](https://roomstyler.com/) - создаем дизайн хаты, как в симсе
+- [Gimp](https://download.gimp.org/gimp/v3.0/) - бесплатный фотошоп
+- [listeninenglish](https://listeninenglish.com/) - английский по отрывкам сериалов и кино
+
 
 ---
 
@@ -40,6 +53,7 @@
 - [promt engineering](https://www.coursera.org/projects/prompt-engineering-with-llama-2) - промпт инженер за час
 - [machine learning](https://developers.google.com/machine-learning/crash-course?hl=ru) - курс по ии (machine learning) от гугла
 - [practical project tutorials](https://github.com/practical-tutorials/project-based-learning) - создание приложений с нуля на любом языке
+- [Learn to Code in 3 Hours](https://www.youtube.com/watch?v=QD50Pkf0Ov0) - стартапы с помощью нейросетей
 
 ## статьи
 - [hack interview](https://betterprogramming.pub/hack-your-next-interview-with-generative-ai-fb8c8bc3cbce?gi=9a7299a04841) - проходим собесы легко)
@@ -57,6 +71,7 @@
 ## 🎥 другой контент
 ### 🎞 видосы
 - [база программиста](https://youtu.be/fW_imcrTA_c?si=a_EtNT3zrlsKHo5A) - пошаговый план с бесплатными курсами для изучения фундаментальных знаний программиста
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x) - гайды по всем языкам программирования
 
 ---
 ## 💻 разработка ПО
@@ -69,6 +84,7 @@
 - [button stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer) - воруем кнопки с сайтов, расширение
 - [websim](https://websim.ai/) - клонируем сайты как реакт код
 - [rive layouts](https://rive.app/blog/introducing-layouts) - перерисовка дизайна под любые разрешения
+- [shadcn](https://ui.shadcn.com/docs) - библиотека компонентов 
 
 ### бэкенд
 - [pglite](https://pglite.dev/) и [postgres new](https://postgres.new/) - браузерная бд postgres
